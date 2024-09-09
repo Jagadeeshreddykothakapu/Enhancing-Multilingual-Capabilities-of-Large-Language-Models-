@@ -1,0 +1,5 @@
+datasets
+tqdm
+fschat[model_worker,train,webui]
+deepspeed
+vllm
